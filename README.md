@@ -10,7 +10,8 @@ python3 read_network_class.py NETWORK
 
 where NETWORK is a gene network time series, stored in folder "test". It will generate a plot showing the best "q" value for inference for each gene.
 
-====================
+---
+
 The "q" value comes from Tsallis Entropy:
 
 $\displaystyle S_q= \frac{1-\sum p ^q}{1-q}$
@@ -22,5 +23,6 @@ More information can be found in paper "Inference of gene regulatory networks fr
 This software looks for the "q" values that gives the minimum entropy value for the correct gene network topology.
 
 
-=====================
+---
+
 This work was created as part of a Masters Degree for the Bioinformatics Post-graduation Program, from UTFPR, Cornélio Procópio campus.
