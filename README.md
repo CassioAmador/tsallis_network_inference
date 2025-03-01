@@ -17,6 +17,8 @@ $\displaystyle S_q= \frac{1-\sum p ^q}{1-q}$
 
 where "p" is the probability for one specific gene correlation.
 
+More information can be found in paper "Inference of gene regulatory networks from time series by Tsallis entropy" (DOI: 10.1186/1752-0509-5-61)
+
 This software looks for the "q" values that gives the minimum entropy value for the correct gene network topology.
 
 
