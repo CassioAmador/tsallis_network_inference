@@ -19,3 +19,6 @@ where "p" is the probability for one specific gene correlation.
 
 This software looks for the "q" values that gives the minimum entropy value for the correct gene network topology.
 
+
+=====================
+This work was created as part of a Masters Degree for the Bioinformatics Post-graduation Program, from UTFPR, Cornélio Procópio campus.
